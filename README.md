@@ -1,6 +1,7 @@
 # A 1,600-Hour FFF Printer Vibration Dataset with Three-Point Sensing and Periodic Tensile-to-Failure Testing
 [DOI](https://doi.org/10.5281/zenodo.21792790)
 [![DOI](https://zenodo.org/badge/1323037218.svg)](https://doi.org/10.5281/zenodo.21792790)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21792790.svg)](https://doi.org/10.5281/zenodo.21792790)
 
 This repository holds a long-term, multi-sensor dataset acquired from a single Creality Ender 5 Plus fused filament fabrication (FFF) printer operated for approximately 1,600 hours over roughly 1.5 years. Three accelerometers on the extrusion head, filament-feeding motor, and printer frame recorded vibration at 50 kHz across 15 wear states spanning the full operating life. At each state, five PLA dogbone specimens were printed under fixed process parameters and tensile-tested to failure, giving synchronized machine-condition and part-performance data.
 
